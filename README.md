@@ -1,1 +1,1 @@
-# componente-practico-2-de-t-cnicas
+# componente-practico-2-de-tecnicas
