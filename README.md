@@ -1,0 +1,1 @@
+# componente-practico-2-de-t-cnicas
